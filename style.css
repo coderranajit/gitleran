@@ -141,6 +141,7 @@ main{
 #range{
     height: 35px;
     width: 100vw;
+    margin-bottom: -10px;
 }
 
 .time-stamp{
